@@ -7,7 +7,15 @@ I love art and subjects that hold emotional and sentimental values. For that, ou
 These interests help me think about how ideas are presented, not just what the ideas are.
 
 ## Pomme
-These are some of my products my pop up clothing brand - "Pomme" opened between 2020-2021 as my first ever start up.
+These are some of my products from the first program of my pop-up clothing brand, **Pomme**, which opened between 2020–2021 as my first startup.
+
+::: {.pomme-gallery}
+![](images/pomme1.JPG){fig-alt="Pomme clothing product photo 1"}
+
+![](images/pomme 2.JPG){fig-alt="Pomme clothing product photo 2"}
+
+![](images/pomme 3.JPG){fig-alt="Pomme clothing product photo 3"}
+:::
 
 
 ## Photography

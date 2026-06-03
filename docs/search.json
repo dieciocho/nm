@@ -4,49 +4,49 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This page showcases the main projects I have worked on in this class. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, and data communication.\n\n\n\n\nFor this project, my team created a research-style poster based on the paper Tidy Data. The goal was to explain the paper’s main argument, show why tidy data matters, and connect the idea to tools we use in R today, such as dplyr, tidyr, and ggplot2.\nSkills used: Quarto, poster design, R, tidyverse, data communication, academic presentation\nRevision note:\nAfter feedback, we improved the organization of the poster, cleaned up the writing, and made the connection between tidy data and modern R tools clearer.\nView GitHub Repository\n\n\n\n\nThis project focused on using SQL to organize, query, and analyze data. Through this project, I practiced writing queries, filtering data, joining tables, and using SQL to answer specific data questions.\nSkills used: SQL, data cleaning, database queries, data analysis\nRevision note:\nAfter receiving feedback, we improved the clarity of the code, cleaned up explanations, and made the project easier to follow.\nView GitHub Repository\n\n\n\n\nFor this project, my team worked on text analysis using R. The project explored how text can be transformed into data through tokenization, word counts, and other text analysis methods.\nSkills used: R, tidyverse, tidytext, tokenization, text mining, data visualization\nRevision note:\nAfter feedback, we improved the project documentation, made the workflow clearer, and explained the purpose of the text analysis steps more directly.\nView GitHub Repository\n\n\n\n\nThis project is an R package designed to help beginners explore basic text analysis concepts. The package focuses on tokenization and bigrams, which are important foundations for understanding how text can be broken down and analyzed.\nThe project also connects to the basics of language models, since tokenization and n-grams are key ideas behind how computers process language.\nSkills used: R package development, tidytext, tokenization, bigrams, data visualization, documentation\nView GitHub Repository\n\n\n\n\nThis project was a presentation connected to my R package work. The goal was to explain what the package does, why it is useful, and how someone could use it to explore beginner text analysis.\nSkills used: R, presentation design, package explanation, communication, GitHub\nView GitHub Repository\n\n\n\n\n\n\n\nDuring my internship with FPT Telecom, I worked with GA4 traffic data and Power BI dashboards to analyze user behavior, traffic sources, and sales funnel performance.\nThis experience helped me learn how to turn raw data into clear business insights. I worked with web behavior data, funnel metrics, and dashboard design to support better decision-making.\nSkills used: GA4, Power BI, data visualization, funnel analysis, traffic analysis\n\n\n\n\n\nThis website is maintained through GitHub.\nView Website GitHub Repository"
+    "text": "This page showcases the main projects I have worked on in this class and beyond. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, data communication, education technology, and AI tools."
   },
   {
     "objectID": "projects.html#academic-projects",
     "href": "projects.html#academic-projects",
     "title": "Projects",
-    "section": "",
-    "text": "For this project, my team created a research-style poster based on the paper Tidy Data. The goal was to explain the paper’s main argument, show why tidy data matters, and connect the idea to tools we use in R today, such as dplyr, tidyr, and ggplot2.\nSkills used: Quarto, poster design, R, tidyverse, data communication, academic presentation\nRevision note:\nAfter feedback, we improved the organization of the poster, cleaned up the writing, and made the connection between tidy data and modern R tools clearer.\nView GitHub Repository\n\n\n\n\nThis project focused on using SQL to organize, query, and analyze data. Through this project, I practiced writing queries, filtering data, joining tables, and using SQL to answer specific data questions.\nSkills used: SQL, data cleaning, database queries, data analysis\nRevision note:\nAfter receiving feedback, we improved the clarity of the code, cleaned up explanations, and made the project easier to follow.\nView GitHub Repository\n\n\n\n\nFor this project, my team worked on text analysis using R. The project explored how text can be transformed into data through tokenization, word counts, and other text analysis methods.\nSkills used: R, tidyverse, tidytext, tokenization, text mining, data visualization\nRevision note:\nAfter feedback, we improved the project documentation, made the workflow clearer, and explained the purpose of the text analysis steps more directly.\nView GitHub Repository\n\n\n\n\nThis project is an R package designed to help beginners explore basic text analysis concepts. The package focuses on tokenization and bigrams, which are important foundations for understanding how text can be broken down and analyzed.\nThe project also connects to the basics of language models, since tokenization and n-grams are key ideas behind how computers process language.\nSkills used: R package development, tidytext, tokenization, bigrams, data visualization, documentation\nView GitHub Repository\n\n\n\n\nThis project was a presentation connected to my R package work. The goal was to explain what the package does, why it is useful, and how someone could use it to explore beginner text analysis.\nSkills used: R, presentation design, package explanation, communication, GitHub\nView GitHub Repository"
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nPaper Poster Project\nFor this project, my team created a research-style poster based on the paper Tidy Data. The goal was to explain the paper’s main argument, show why tidy data matters, and connect the idea to tools we use in R today, such as dplyr, tidyr, and ggplot2.\nSkills used: Quarto, poster design, R, tidyverse, data communication, academic presentation\nRevision note:\nAfter feedback, we improved the organization of the poster, cleaned up the writing, and made the connection between tidy data and modern R tools clearer.\nView GitHub Repository\n\n\n\nSQL Project\nThis project focused on using SQL to organize, query, and analyze data. Through this project, I practiced writing queries, filtering data, joining tables, and using SQL to answer specific data questions.\nSkills used: SQL, data cleaning, database queries, data analysis\nRevision note:\nAfter receiving feedback, we improved the clarity of the code, cleaned up explanations, and made the project easier to follow.\nView GitHub Repository\n\n\n\nText Analysis Project\nFor this project, my team worked on text analysis using R. The project explored how text can be transformed into data through tokenization, word counts, and other text analysis methods.\nSkills used: R, tidyverse, tidytext, tokenization, text mining, data visualization\nRevision note:\nAfter feedback, we improved the project documentation, made the workflow clearer, and explained the purpose of the text analysis steps more directly.\nView GitHub Repository\n\n\n\nTokenization and Bigrams Explore Package\nThis project is an R package designed to help beginners explore basic text analysis concepts. The package focuses on tokenization and bigrams, which are important foundations for understanding how text can be broken down and analyzed.\nThe project also connects to the basics of language models, since tokenization and n-grams are key ideas behind how computers process language.\nSkills used: R package development, tidytext, tokenization, bigrams, data visualization, documentation\nView GitHub Repository\n\n\n\nR Package Presentation\nThis project was a presentation connected to my R package work. The goal was to explain what the package does, why it is useful, and how someone could use it to explore beginner text analysis.\nSkills used: R, presentation design, package explanation, communication, GitHub\nView GitHub Repository"
   },
   {
-    "objectID": "projects.html#beyond-class-project",
-    "href": "projects.html#beyond-class-project",
+    "objectID": "projects.html#beyond-class-projects",
+    "href": "projects.html#beyond-class-projects",
     "title": "Projects",
-    "section": "",
-    "text": "During my internship with FPT Telecom, I worked with GA4 traffic data and Power BI dashboards to analyze user behavior, traffic sources, and sales funnel performance.\nThis experience helped me learn how to turn raw data into clear business insights. I worked with web behavior data, funnel metrics, and dashboard design to support better decision-making.\nSkills used: GA4, Power BI, data visualization, funnel analysis, traffic analysis"
+    "section": "Beyond-Class Projects",
+    "text": "Beyond-Class Projects\nCurrently, I am working on two side projects alongside my classwork.\n\nUNIGLOBE\nUNIGLOBE is a website concept designed to help students search, compare, calculate, and plan for higher education. The project focuses on making the college search process more accessible, especially for international students who need clearer information when comparing schools, costs, and application options.\nFocus areas: education technology, college search, international students, data-driven comparison, product strategy\nVisit UNIGLOBE Website\n\n\n[WIP] MOAI — Mini Office AI Integration\nMOAI is a work-in-progress tool designed to help non-coding users create and manage multi-agent AI systems locally on their computers. The goal is to make AI workflow automation easier to understand and use without requiring advanced programming knowledge.\nFocus areas: AI agents, local automation, productivity tools, no-code workflows, user-friendly AI systems"
   },
   {
     "objectID": "projects.html#website-repository",
     "href": "projects.html#website-repository",
     "title": "Projects",
-    "section": "",
-    "text": "This website is maintained through GitHub.\nView Website GitHub Repository"
+    "section": "Website Repository",
+    "text": "Website Repository\nThis website is maintained through GitHub.\nView Website GitHub Repository"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Nhat Minh Nguyen, an Economics student at Lawrence University. My academic and professional interests include entrepreneur, data analytics, business analytics, and technology.\nI enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI (ClaudeCode).\n\n\n\nR\nSQL\nQuarto\nGitHub\nPower BI\nGA4\nData visualization\nText analysis\nMarketing analytics\n\n\n\n\nOutside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions."
+    "text": "I am Nhat Minh Nguyen, an Economics student at Lawrence University. My academic and professional interests include entrepreneur, data analytics, business analytics, and technology.\nI enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI."
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About",
-    "section": "",
-    "text": "R\nSQL\nQuarto\nGitHub\nPower BI\nGA4\nData visualization\nText analysis\nMarketing analytics"
+    "section": "Skills",
+    "text": "Skills\n\nR\nPython\nGit\nPower BI\nGA4\nClaude Code (MCP integration and harness/ prompt engineer)"
   },
   {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
+    "objectID": "about.html#experiences",
+    "href": "about.html#experiences",
     "title": "About",
-    "section": "",
-    "text": "Outside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions."
+    "section": "Experiences",
+    "text": "Experiences\n\nData Analyst Intern — FPT Telecom\n\nConducted data analysis to identify data quality issues and support business decisions.\nBuilt automated data pipelines to improve reporting workflow and dashboard updates.\nDeveloped interactive dashboards to track business performance and support managers.\n\n\n\nBusiness Analyst Intern — VMO\n\nAnalyzed business and sales pipelines to improve operational efficiency.\nResearched competitors and market trends across targeted industries.\nPrepared data-driven presentations with key findings and recommendations.\n\n\n\nBusiness Development — Aforai\n\nSupported early-stage strategy, positioning, and go-to-market planning.\nWorked with co-founders to define growth strategies and build market traction.\nHelped execute marketing campaigns that supported user growth and revenue.\n\n\n\nCommunity Manager — Ambros Technology\n\nManaged online community channels across multiple projects.\nPlanned and supported community events, campaigns, and engagement activities.\nCollaborated with executives, developers, and marketing teams on cross-functional projects.\n\n###Business Development — Kryptos Media - Conducted market research and competitive analysis for partnership opportunities. - Identified potential collaborations across relevant industry sectors. - Consult and connect porjects to projects - projects to agency - Support blockchain start ups to build strategy for launchpad and Initial Token Offering ## Interests\nOutside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions."
   },
   {
     "objectID": "index.html",
@@ -56,10 +56,31 @@
     "text": "I am an Economics student at Lawrence University with interests in entrepreneurship, technology- driven business strategy, and data analytic.\nI enjoy using data to understand behavior, improve decision-making, and turn messy information into clear insights. This website showcases my class projects, personal projects, technical skills, and professional development.\n\n\n\nGitHub\nLinkedIn\nEmail"
   },
   {
-    "objectID": "index.html#know-more-aboue-me-here",
-    "href": "index.html#know-more-aboue-me-here",
+    "objectID": "index.html#find-me-on",
+    "href": "index.html#find-me-on",
     "title": "Home",
     "section": "",
     "text": "GitHub\nLinkedIn\nEmail"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "I love art and subjects that hold emotional and sentimental values. For that, outside of data analytics and class projects, I enjoy exploring creative projects that involve apparels, visual communication, and storytelling.\nThese interests help me think about how ideas are presented, not just what the ideas are."
+  },
+  {
+    "objectID": "other.html#pomme",
+    "href": "other.html#pomme",
+    "title": "Other",
+    "section": "Pomme",
+    "text": "Pomme\nThese are some of my products my pop up clothing brand - “Pomme” opened between 2020-2021 as my first ever start up."
+  },
+  {
+    "objectID": "other.html#photography",
+    "href": "other.html#photography",
+    "title": "Other",
+    "section": "Photography",
+    "text": "Photography\nI enjoy painting, but I can’t paint nor draw. So I use my camera as the tool for me to create real life painting - photographs."
   }
 ]

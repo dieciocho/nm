@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-This page showcases the main projects I have worked on in this class. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, and data communication.
+This page showcases the main projects I have worked on in this class and beyond. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, data communication, education technology, and AI tools.
 
 ## Academic Projects
 
@@ -67,13 +67,23 @@ This project was a presentation connected to my R package work. The goal was to 
 
 ---
 
-## Beyond-Class Project
+## Beyond-Class Projects
 
-Currently I'm working on 2 project side by side
+Currently, I am working on two side projects alongside my classwork.
 
-- UNIGLOBE - Website for studnet to search, compare, calculate and plan for their higher educations 
+### UNIGLOBE
 
-- [WIP] MOAI - Mini Office AI Integration - A tool for non code users to create and manage multi- agents system locally on their computer. 
+UNIGLOBE is a website concept designed to help students search, compare, calculate, and plan for higher education. The project focuses on making the college search process more accessible, especially for international students who need clearer information when comparing schools, costs, and application options.
+
+**Focus areas:** education technology, college search, international students, data-driven comparison, product strategy
+
+[Visit UNIGLOBE Website](https://uniglobe-beta.onrender.com/)
+
+### [WIP] MOAI — Mini Office AI Integration
+
+MOAI is a work-in-progress tool designed to help non-coding users create and manage multi-agent AI systems locally on their computers. The goal is to make AI workflow automation easier to understand and use without requiring advanced programming knowledge.
+
+**Focus areas:** AI agents, local automation, productivity tools, no-code workflows, user-friendly AI systems
 
 ---
 

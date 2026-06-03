@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c82218b12ac0f327fa8bd7d074ce2147.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1142483333eda12a528f47866739cea9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -93,22 +94,68 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="./projects.html">
+ <span class="dropdown-text">All Projects</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/ADC-405-S26/Project_5_PaperPoster_Team_7">
+ <span class="dropdown-text">Paper Poster Project</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/ADC-405-S26/Project_2_SQL_Team_12">
+ <span class="dropdown-text">SQL Project</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_12">
+ <span class="dropdown-text">Text Analysis Project</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/ADC-405-S26/Tokenization-and-Bigrams-Explore-Package">
+ <span class="dropdown-text">R Package</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/ADC-405-S26/dieciocho_R_package_presentation">
+ <span class="dropdown-text">R Package Presentation</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./other.html"> 
-<span class="menu-text">Other</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-other" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Other</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-other">    
+        <li>
+    <a class="dropdown-item" href="./other.html">
+ <span class="dropdown-text">Other Interests</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./other.html#creative-work">
+ <span class="dropdown-text">Creative Work</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./other.html#sports-and-culture">
+ <span class="dropdown-text">Sports &amp; Culture</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./other.html#design-and-branding">
+ <span class="dropdown-text">Design &amp; Branding</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/dieciocho/nm.git"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/dieciocho/nm"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -138,10 +185,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a>
+  <li><a href="#skills" id="toc-skills" class="nav-link active" data-scroll-target="#skills">Skills</a></li>
+  <li><a href="#experiences" id="toc-experiences" class="nav-link" data-scroll-target="#experiences">Experiences</a>
   <ul class="collapse">
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
-  <li><a href="#interests" id="toc-interests" class="nav-link" data-scroll-target="#interests">Interests</a></li>
+  <li><a href="#data-analyst-intern-fpt-telecom" id="toc-data-analyst-intern-fpt-telecom" class="nav-link" data-scroll-target="#data-analyst-intern-fpt-telecom">Data Analyst Intern — FPT Telecom</a></li>
+  <li><a href="#business-analyst-intern-vmo" id="toc-business-analyst-intern-vmo" class="nav-link" data-scroll-target="#business-analyst-intern-vmo">Business Analyst Intern — VMO</a></li>
+  <li><a href="#business-development-aforai" id="toc-business-development-aforai" class="nav-link" data-scroll-target="#business-development-aforai">Business Development — Aforai</a></li>
+  <li><a href="#community-manager-ambros-technology" id="toc-community-manager-ambros-technology" class="nav-link" data-scroll-target="#community-manager-ambros-technology">Community Manager — Ambros Technology</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -168,26 +218,53 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="about-me" class="level1">
-<h1>About Me</h1>
 <p>I am Nhat Minh Nguyen, an Economics student at Lawrence University. My academic and professional interests include entrepreneur, data analytics, business analytics, and technology.</p>
-<p>I enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI (ClaudeCode).</p>
+<p>I enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI.</p>
 <section id="skills" class="level2">
 <h2 class="anchored" data-anchor-id="skills">Skills</h2>
 <ul>
 <li>R</li>
-<li>SQL</li>
-<li>Quarto</li>
-<li>GitHub</li>
+<li>Python</li>
+<li>Git</li>
 <li>Power BI</li>
 <li>GA4</li>
-<li>Data visualization</li>
-<li>Text analysis</li>
-<li>Marketing analytics</li>
+<li>Claude Code (MCP integration and harness/ prompt engineer)</li>
 </ul>
 </section>
-<section id="interests" class="level2">
-<h2 class="anchored" data-anchor-id="interests">Interests</h2>
+<section id="experiences" class="level2">
+<h2 class="anchored" data-anchor-id="experiences">Experiences</h2>
+<section id="data-analyst-intern-fpt-telecom" class="level3">
+<h3 class="anchored" data-anchor-id="data-analyst-intern-fpt-telecom">Data Analyst Intern — FPT Telecom</h3>
+<ul>
+<li>Conducted data analysis to identify data quality issues and support business decisions.</li>
+<li>Built automated data pipelines to improve reporting workflow and dashboard updates.</li>
+<li>Developed interactive dashboards to track business performance and support managers.</li>
+</ul>
+</section>
+<section id="business-analyst-intern-vmo" class="level3">
+<h3 class="anchored" data-anchor-id="business-analyst-intern-vmo">Business Analyst Intern — VMO</h3>
+<ul>
+<li>Analyzed business and sales pipelines to improve operational efficiency.</li>
+<li>Researched competitors and market trends across targeted industries.</li>
+<li>Prepared data-driven presentations with key findings and recommendations.</li>
+</ul>
+</section>
+<section id="business-development-aforai" class="level3">
+<h3 class="anchored" data-anchor-id="business-development-aforai">Business Development — Aforai</h3>
+<ul>
+<li>Supported early-stage strategy, positioning, and go-to-market planning.</li>
+<li>Worked with co-founders to define growth strategies and build market traction.</li>
+<li>Helped execute marketing campaigns that supported user growth and revenue.</li>
+</ul>
+</section>
+<section id="community-manager-ambros-technology" class="level3">
+<h3 class="anchored" data-anchor-id="community-manager-ambros-technology">Community Manager — Ambros Technology</h3>
+<ul>
+<li>Managed online community channels across multiple projects.</li>
+<li>Planned and supported community events, campaigns, and engagement activities.</li>
+<li>Collaborated with executives, developers, and marketing teams on cross-functional projects.</li>
+</ul>
+<p>###Business Development — Kryptos Media - Conducted market research and competitive analysis for partnership opportunities. - Identified potential collaborations across relevant industry sectors. - Consult and connect porjects to projects - projects to agency - Support blockchain start ups to build strategy for launchpad and Initial Token Offering ## Interests</p>
 <p>Outside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions.</p>
 
 

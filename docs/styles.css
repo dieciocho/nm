@@ -1,0 +1,106 @@
+/* Main page background */
+body {
+  background-color: #0B1120;
+  color: #E5E7EB;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+/* Main content area */
+main {
+  max-width: 1000px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #F8FAFC;
+  font-weight: 700;
+}
+
+h1 {
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  border-bottom: 1px solid #1E3A8A;
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
+}
+
+/* Links */
+a {
+  color: #60A5FA;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #93C5FD;
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #111827 !important;
+  border-bottom: 1px solid #1D4ED8;
+}
+
+.navbar-title {
+  color: #F8FAFC !important;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  color: #E5E7EB !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #60A5FA !important;
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+  background-color: #111827;
+  border: 1px solid #2563EB;
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.2);
+}
+
+.dropdown-item {
+  color: #E5E7EB;
+}
+
+.dropdown-item:hover {
+  background-color: #1E3A8A;
+  color: #FFFFFF;
+}
+
+/* Cards / project sections */
+.card, .quarto-grid-item {
+  background-color: #111827;
+  border: 1px solid #1E40AF;
+  border-radius: 14px;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #111827;
+  color: #93C5FD;
+  border-radius: 6px;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: #1E3A8A;
+}
+
+/* Image styling */
+img {
+  border-radius: 14px;
+}
+
+/* Table of contents */
+.sidebar nav[role="doc-toc"] ul > li > a {
+  color: #CBD5E1 !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+  color: #60A5FA !important;
+}

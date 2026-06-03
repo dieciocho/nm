@@ -1,28 +1,56 @@
-project:
+pproject:
   type: website
   output-dir: docs
 
 website:
   title: "Nhat Minh Nguyen"
   navbar:
+    background: "#111827"
+    foreground: "#E5E7EB"
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
+
+      - text: Projects
+        menu:
+          - href: projects.qmd
+            text: All Projects
+          - href: https://github.com/ADC-405-S26/Project_5_PaperPoster_Team_7
+            text: Paper Poster Project
+          - href: https://github.com/ADC-405-S26/Project_2_SQL_Team_12
+            text: SQL Project
+          - href: https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_12
+            text: Text Analysis Project
+          - href: https://github.com/ADC-405-S26/Tokenization-and-Bigrams-Explore-Package
+            text: R Package
+          - href: https://github.com/ADC-405-S26/dieciocho_R_package_presentation
+            text: R Package Presentation
+
       - href: about.qmd
         text: About
-      - href: resume.qmd
-        text: Resume
+
+      - text: Other
+        menu:
+          - href: other.qmd
+            text: Other Interests
+          - href: other.qmd#creative-work
+            text: Creative Work
+          - href: other.qmd#sports-and-culture
+            text: Sports & Culture
+          - href: other.qmd#design-and-branding
+            text: Design & Branding
+
     right:
       - icon: github
-        href: https://github.com/dieciocho/nm.git
+        href: https://github.com/dieciocho/nm
+      - icon: linkedin
+        href: https://www.linkedin.com/in/minh-nguyen-962671228/
       - icon: envelope
         href: mailto:notnminh@gmail.com
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
+    css: styles.css
     toc: true
-
 

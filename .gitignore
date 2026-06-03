@@ -5,3 +5,11 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Quarto single-page render outputs outside docs
+*_files/
+*.html
+
+# Keep rendered website files inside docs
+!docs/
+!docs/**

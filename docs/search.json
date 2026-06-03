@@ -28,20 +28,6 @@
     "text": "This website is maintained through GitHub.\nView Website GitHub Repository"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I am an Economics student at Lawrence University with interests in entrepreneurship, technology- driven business strategy, and data analytic.\nI enjoy using data to understand behavior, improve decision-making, and turn messy information into clear insights. This website showcases my class projects, personal projects, technical skills, and professional development.\n\n\n\nGitHub\nEmail"
-  },
-  {
-    "objectID": "index.html#professional-links",
-    "href": "index.html#professional-links",
-    "title": "Home",
-    "section": "",
-    "text": "GitHub\nEmail"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -61,5 +47,19 @@
     "title": "About",
     "section": "",
     "text": "Outside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am an Economics student at Lawrence University with interests in entrepreneurship, technology- driven business strategy, and data analytic.\nI enjoy using data to understand behavior, improve decision-making, and turn messy information into clear insights. This website showcases my class projects, personal projects, technical skills, and professional development.\n\n\n\nGitHub\nLinkedIn\nEmail"
+  },
+  {
+    "objectID": "index.html#know-more-aboue-me-here",
+    "href": "index.html#know-more-aboue-me-here",
+    "title": "Home",
+    "section": "",
+    "text": "GitHub\nLinkedIn\nEmail"
   }
 ]

@@ -1,0 +1,26 @@
+---
+title: "Home"
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/profile.jpg){width="80%" fig-align="center"}
+:::
+
+::: {.g-col-8}
+
+# Hi, I'm Nhat Minh Nguyen
+
+I am an Economics student at Lawrence University with interests in entrepreneurship, technology- driven business strategy, and data analytic.
+
+I enjoy using data to understand behavior, improve decision-making, and turn messy information into clear insights. This website showcases my class projects, personal projects, technical skills, and professional development.
+
+## Professional Links
+
+- [GitHub](https://github.com/dieciocho/nm)
+- [Email](mailto:notnminh@gmail.com)
+
+:::
+
+:::

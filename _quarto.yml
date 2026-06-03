@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nhat Minh Nguyen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/dieciocho/nm.git
+      - icon: envelope
+        href: mailto:notnminh@gmail.com
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+

@@ -1,0 +1,88 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+This page showcases the main projects I have worked on in this class. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, and data communication.
+
+## Academic Projects
+
+### Paper Poster Project
+
+For this project, my team created a research-style poster based on the paper *Tidy Data*. The goal was to explain the paper’s main argument, show why tidy data matters, and connect the idea to tools we use in R today, such as `dplyr`, `tidyr`, and `ggplot2`.
+
+**Skills used:** Quarto, poster design, R, tidyverse, data communication, academic presentation
+
+**Revision note:**  
+After feedback, we improved the organization of the poster, cleaned up the writing, and made the connection between tidy data and modern R tools clearer.
+
+[View GitHub Repository](https://github.com/ADC-405-S26/Project_5_PaperPoster_Team_7)
+
+---
+
+### SQL Project
+
+This project focused on using SQL to organize, query, and analyze data. Through this project, I practiced writing queries, filtering data, joining tables, and using SQL to answer specific data questions.
+
+**Skills used:** SQL, data cleaning, database queries, data analysis
+
+**Revision note:**  
+After receiving feedback, we improved the clarity of the code, cleaned up explanations, and made the project easier to follow.
+
+[View GitHub Repository](https://github.com/ADC-405-S26/Project_2_SQL_Team_12)
+
+---
+
+### Text Analysis Project
+
+For this project, my team worked on text analysis using R. The project explored how text can be transformed into data through tokenization, word counts, and other text analysis methods.
+
+**Skills used:** R, tidyverse, tidytext, tokenization, text mining, data visualization
+
+**Revision note:**  
+After feedback, we improved the project documentation, made the workflow clearer, and explained the purpose of the text analysis steps more directly.
+
+[View GitHub Repository](https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_12)
+
+---
+
+### Tokenization and Bigrams Explore Package
+
+This project is an R package designed to help beginners explore basic text analysis concepts. The package focuses on tokenization and bigrams, which are important foundations for understanding how text can be broken down and analyzed.
+
+The project also connects to the basics of language models, since tokenization and n-grams are key ideas behind how computers process language.
+
+**Skills used:** R package development, tidytext, tokenization, bigrams, data visualization, documentation
+
+[View GitHub Repository](https://github.com/ADC-405-S26/Tokenization-and-Bigrams-Explore-Package)
+
+---
+
+### R Package Presentation
+
+This project was a presentation connected to my R package work. The goal was to explain what the package does, why it is useful, and how someone could use it to explore beginner text analysis.
+
+**Skills used:** R, presentation design, package explanation, communication, GitHub
+
+[View GitHub Repository](https://github.com/ADC-405-S26/dieciocho_R_package_presentation)
+
+---
+
+## Beyond-Class Project
+
+### FPT Telecom Data Analytics Internship
+
+During my internship with FPT Telecom, I worked with GA4 traffic data and Power BI dashboards to analyze user behavior, traffic sources, and sales funnel performance.
+
+This experience helped me learn how to turn raw data into clear business insights. I worked with web behavior data, funnel metrics, and dashboard design to support better decision-making.
+
+**Skills used:** GA4, Power BI, data visualization, funnel analysis, traffic analysis
+
+---
+
+## Website Repository
+
+This website is maintained through GitHub.
+
+[View Website GitHub Repository](https://github.com/dieciocho/nm)

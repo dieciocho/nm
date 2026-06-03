@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am Nhat Minh Nguyen, an Economics student at Lawrence University. My academic and professional interests include entrepreneur, data analytics, business analytics, and technology.
+
+I enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI (ClaudeCode).
+
+## Skills
+
+- R
+- SQL
+- Quarto
+- GitHub
+- Power BI
+- GA4
+- Data visualization
+- Text analysis
+- Marketing analytics
+
+## Interests
+
+Outside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions.

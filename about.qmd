@@ -4,7 +4,7 @@ title: "About"
 
 I am Nhat Minh Nguyen, an Economics student at Lawrence University. My academic and professional interests include entrepreneur, data analytics, business analytics, and technology.
 
-I enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI (ClaudeCode).
+I enjoy working on projects that connect data with real-world decision-making. Through my coursework and internship experience, I have developed skills in R, SQL, GitHub, Power BI, GA4, and AI.
 
 ## Skills
 
@@ -17,7 +17,31 @@ I enjoy working on projects that connect data with real-world decision-making. T
 
 ## Experiences
 
+### Data Analyst Intern — FPT Telecom
+- Conducted data analysis to identify data quality issues and support business decisions.
+- Built automated data pipelines to improve reporting workflow and dashboard updates.
+- Developed interactive dashboards to track business performance and support managers.
 
+### Business Analyst Intern — VMO
+- Analyzed business and sales pipelines to improve operational efficiency.
+- Researched competitors and market trends across targeted industries.
+- Prepared data-driven presentations with key findings and recommendations.
+
+### Business Development — Aforai
+- Supported early-stage strategy, positioning, and go-to-market planning.
+- Worked with co-founders to define growth strategies and build market traction.
+- Helped execute marketing campaigns that supported user growth and revenue.
+
+### Community Manager — Ambros Technology
+- Managed online community channels across multiple projects.
+- Planned and supported community events, campaigns, and engagement activities.
+- Collaborated with executives, developers, and marketing teams on cross-functional projects.
+
+###Business Development — Kryptos Media
+- Conducted market research and competitive analysis for partnership opportunities.
+- Identified potential collaborations across relevant industry sectors.
+- Consult and connect porjects to projects - projects to agency
+- Support blockchain start ups to build strategy for launchpad and Initial Token Offering
 ## Interests
 
 Outside of class, I am interested in startups and technology products, arts . I enjoy learning how data can help organizations understand users and make better decisions.

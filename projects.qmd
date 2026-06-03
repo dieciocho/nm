@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 This page showcases the main projects I have worked on in this class. These projects show my experience with SQL, text analysis, R package development, Quarto, poster design, and data communication.
 
 ## Academic Projects
@@ -71,13 +69,11 @@ This project was a presentation connected to my R package work. The goal was to 
 
 ## Beyond-Class Project
 
-### FPT Telecom Data Analytics Internship
+Currently I'm working on 2 project side by side
 
-During my internship with FPT Telecom, I worked with GA4 traffic data and Power BI dashboards to analyze user behavior, traffic sources, and sales funnel performance.
+- UNIGLOBE - Website for studnet to search, compare, calculate and plan for their higher educations 
 
-This experience helped me learn how to turn raw data into clear business insights. I worked with web behavior data, funnel metrics, and dashboard design to support better decision-making.
-
-**Skills used:** GA4, Power BI, data visualization, funnel analysis, traffic analysis
+- [WIP] MOAI - Mini Office AI Integration - A tool for non code users to create and manage multi- agents system locally on their computer. 
 
 ---
 

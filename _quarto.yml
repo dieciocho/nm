@@ -11,34 +11,14 @@ website:
       - href: index.qmd
         text: Home
 
-      - text: Projects
-        menu:
-          - href: projects.qmd
-            text: All Projects
-          - href: https://github.com/ADC-405-S26/Project_5_PaperPoster_Team_7
-            text: Paper Poster Project
-          - href: https://github.com/ADC-405-S26/Project_2_SQL_Team_12
-            text: SQL Project
-          - href: https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_12
-            text: Text Analysis Project
-          - href: https://github.com/ADC-405-S26/Tokenization-and-Bigrams-Explore-Package
-            text: R Package
-          - href: https://github.com/ADC-405-S26/dieciocho_R_package_presentation
-            text: R Package Presentation
+      - href: projects.qmd
+        text: Projects
 
       - href: about.qmd
         text: About
 
-      - text: Other
-        menu:
-          - href: other.qmd
-            text: Other Interests
-          - href: other.qmd#creative-work
-            text: Creative Work
-          - href: other.qmd#sports-and-culture
-            text: Sports & Culture
-          - href: other.qmd#design-and-branding
-            text: Design & Branding
+      - href: other.qmd
+        text: Other
 
     right:
       - icon: github
